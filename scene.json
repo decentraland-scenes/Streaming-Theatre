@@ -4,7 +4,7 @@
   "display": {
     "title": "Decentraland Theatre",
     "description": "If there is picture, there is a video",
-    "navmapThumbnail": "images/scene-thumbnail.png",
+    "navmapThumbnail": "assets/scene/theatre.png",
     "favicon": "favicon_asset"
   },
   "owner": "",
@@ -452,5 +452,8 @@
   "allowedMediaHostnames": [
     "player.vimeo.com"
   ],
-  "featureToggles": {}
+  "featureToggles": {
+    "voiceChat": "enabled",
+    "portableExperiences": "enabled"
+  }
 }
