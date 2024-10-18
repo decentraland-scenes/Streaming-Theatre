@@ -3,7 +3,7 @@
   "runtimeVersion": "7",
   "display": {
     "title": "Decentraland Theatre",
-    "description": "If there is picture, there is a video",
+    "description": "Stream live or prerecorded videos into a large screen in this scene.",
     "navmapThumbnail": "assets/scene/theatre.png",
     "favicon": "favicon_asset"
   },
@@ -427,15 +427,9 @@
       "name": "spawn1",
       "default": true,
       "position": {
-        "x": [
-          85
-        ],
-        "y": [
-          40
-        ],
-        "z": [
-          95
-        ]
+        "x": [85],
+        "y": [40],
+        "z": [95]
       },
       "cameraTarget": {
         "x": 100,
@@ -449,9 +443,7 @@
     "ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE",
     "ALLOW_MEDIA_HOSTNAMES"
   ],
-  "allowedMediaHostnames": [
-    "player.vimeo.com"
-  ],
+  "allowedMediaHostnames": ["player.vimeo.com"],
   "featureToggles": {
     "voiceChat": "enabled",
     "portableExperiences": "enabled"
