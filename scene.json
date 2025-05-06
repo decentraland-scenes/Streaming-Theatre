@@ -427,9 +427,15 @@
       "name": "spawn1",
       "default": true,
       "position": {
-        "x": [85],
-        "y": [40],
-        "z": [95]
+        "x": [
+          85
+        ],
+        "y": [
+          40
+        ],
+        "z": [
+          95
+        ]
       },
       "cameraTarget": {
         "x": 100,
@@ -443,9 +449,15 @@
     "ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE",
     "ALLOW_MEDIA_HOSTNAMES"
   ],
-  "allowedMediaHostnames": ["player.vimeo.com"],
+  "allowedMediaHostnames": [
+    "player.vimeo.com"
+  ],
   "featureToggles": {
     "voiceChat": "enabled",
     "portableExperiences": "enabled"
+  },
+  "source": {
+    "origin": "creator-hub",
+    "projectId": "95d704c8-5f97-4eae-a111-65b44b01477c"
   }
 }
