@@ -152,4 +152,3 @@ Once customized, you can:
 
 This template is intended for free use and adaptation within the Decentraland ecosystem.  
 Feel free to fork, remix, and personalize it for your gallery or project.
-# Setting up the Server for Streaming
