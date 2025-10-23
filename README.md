@@ -1,9 +1,5 @@
 # Video streaming
 
-A scene with examples of some simple interactions. Perform the corresponding action on each cube to turn it green.
-
-![](screenshot/screenshot.png)
-
 This scene shows you how to stream video into a scene
 
 It includes de Scene Admin Smart Item, which allows admin users in the scene to perform a number of special tasks. These include:
