@@ -6,6 +6,7 @@
  */
 export enum EntityNames {
   Admin_Tools = "Admin Tools",
+  Fixed_View_Camera = "Fixed View Camera",
   Video_Screen = "Video Screen",
   base_theatre_glb = "base_theatre.glb",
 } 
