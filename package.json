@@ -1,7 +1,7 @@
 {
   "name": "dcl-project",
   "version": "1.0.0",
-  "description": "SDK7 Template scene",
+  "description": "Streaming Theatre Template scene",
   "scripts": {
     "start": "sdk-commands start",
     "deploy": "sdk-commands deploy",
@@ -11,7 +11,8 @@
   },
   "devDependencies": {
     "@dcl/js-runtime": "latest",
-    "@dcl/sdk": "latest"
+    "@dcl/sdk": "latest",
+    "@dcl/asset-packs": "latest"
   },
   "engines": {
     "node": ">=16.0.0",
