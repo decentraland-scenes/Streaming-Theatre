@@ -3,9 +3,13 @@ import { Color4, Quaternion } from '@dcl/sdk/math'
 import { EntityNames } from '../assets/scene/entity-names'
 import { getTriggerEvents, getActionEvents } from '@dcl/asset-packs/dist/events'
 import { TriggerType } from '@dcl/asset-packs'
+import { setupUi } from './ui'
 
 export function main() {
 
+  // uncomment the line below to initialize UI from ui.tsx
+  //setupUi()
+  
   // fetch screens from editor
   const screen = engine.getEntityOrNullByName(EntityNames.Video_Screen)
 
